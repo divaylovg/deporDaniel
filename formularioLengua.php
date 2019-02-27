@@ -1,4 +1,6 @@
+
 <?php
+//prueba
 session_start();
 
 $ruta="lenguaC.php";
