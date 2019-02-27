@@ -1,0 +1,44 @@
+<?php
+
+$nombre="name";
+$apellido="surname";
+$edad="age";
+$jugador="player";
+$equipo="team";
+$arbitro="referee";
+$elegir="Choose option";
+$log="Loging";
+$registrar="Register";
+$inicio="Choose Lenguage";
+$foto="photo";
+$contrasenya="password";
+$altura="height";
+$enviar="send";
+$fechaCreacion="creation date";
+$puntuacion="points";
+$borrar="Delete";
+$codigo="ID";
+$liga="League";
+$campo="Field";
+$interior="Interior";
+$exterior="Exterior";
+$lunes="Monday";
+$martes="Tuesday";
+$miercoles="Wednesday";
+$jueves="Thursday";
+$viernes="Friday";
+$sabado="Saturday";
+$daomingo="Sunday";
+$dia="Day";
+$comprobarTiempo="Check weather";
+$h1="15";
+$h2="18";
+$h3="21";
+$mensajeHora="Hour";
+$seleccionarDia="Select day";
+$apuntar="Join league";
+$no="no";
+$si="yes";
+$cancelar="Would you like to cancel your reserve?Introduce the id of the match.";
+$amonestar="Introduce ID from the reserve to admonish team";
+?>
